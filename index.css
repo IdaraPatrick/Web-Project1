@@ -1,0 +1,62 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#navigation{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background-color: teal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+ul li{
+    float: left;
+    margin: 0px 20px;
+    color: black;
+}
+#nbar{
+    color: black;
+}
+#nav-id{
+    col;
+}
+nav{
+    display: block;
+}
+#searchbutton{
+    
+    margin-left: 40px;
+}
+
+ul:hover {
+    color: red;    
+}
+
+.navbar-nav{
+    font-weight: bold;
+    color: black;
+}
+#nav{
+    display: flex;
+}
+#background{
+    background-color:;
+
+}
+
+.navbar-brand{
+    text-align: center;
+}
+
+.nav-item a{
+    color: black;
+}
+
+.nav-item a:hover{
+    color: red;
+}
