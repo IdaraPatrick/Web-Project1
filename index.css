@@ -12,7 +12,7 @@
     min-height: 8vh;
     background-color: teal;
     font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 ul li{
     float: left;
@@ -22,9 +22,7 @@ ul li{
 #nbar{
     color: black;
 }
-#nav-id{
-    col;
-}
+
 nav{
     display: block;
 }
@@ -34,20 +32,17 @@ nav{
 }
 
 ul:hover {
-    color: red;    
+    color: rgb(224, 172, 0);  
 }
 
 .navbar-nav{
-    font-weight: bold;
+font-weight: 600;
     color: black;
 }
 #nav{
     display: flex;
 }
-#background{
-    background-color:;
 
-}
 
 .navbar-brand{
     text-align: center;
@@ -58,5 +53,9 @@ ul:hover {
 }
 
 .nav-item a:hover{
-    color: red;
+    color: rgb(224, 172, 0);
+}
+
+.header{
+    box-shadow: 5px 5px 10px rgba(206, 206, 206, 0.2);
 }
